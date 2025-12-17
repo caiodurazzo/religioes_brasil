@@ -4,4 +4,4 @@ Este repositório reproduz a análise do livro "Brasil no espelho" (Felipe Nunes
 
 Os dados utilizados são de todos os censos demográficos do IBGE.
 
-Ao documentar as etapas de coleta, tratamento e análise dos dados, o projeto busca promover a transparência e a reprodutibilidade científica em pesquisas baseadas em dados públicos.
+Ao documentar as etapas de extração, tratamento e análise dos dados, o projeto busca promover a transparência e a reprodutibilidade científica em pesquisas baseadas em dados públicos.
